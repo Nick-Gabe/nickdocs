@@ -68,7 +68,8 @@ const config = {
         title: 'Nickdocs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/nickdocs.svg',
+          src: 'img/logo-light.svg',
+          srcDark: 'img/logo-dark.svg',
         },
         items: [
           {
@@ -90,7 +91,7 @@ const config = {
           {
             href: 'https://github.com/nick-gabe/nickdocs',
             label: 'GitHub',
-            position: 'left',
+            position: 'left'
           },
         ],
       },
