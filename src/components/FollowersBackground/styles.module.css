@@ -1,0 +1,32 @@
+.bgContainer {
+  display: flex;
+  width: 110vw;
+  position: fixed;
+  flex-wrap: wrap;
+  z-index: -1;
+}
+
+.bgContainer::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--ifm-color-primary-darkest);
+  opacity: .7;
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+    transform: scale(0);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.followerAnimation {
+  animation: appear cubic-bezier(.76,1.86,.77,.71) 1s 0s backwards;
+}

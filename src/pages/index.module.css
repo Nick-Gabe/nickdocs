@@ -1,0 +1,31 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.header {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.header h1, .header p {
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 10px black;
+}
+
+.heading {
+  font-family: Unbounded, monospace;
+  font-size: 5em;
+}
+
+main {
+  min-height: 80vh;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,46 @@
+{
+  "link.title.Content": {
+    "message": "Content",
+    "description": "The title of the footer links column with title=Content in the footer"
+  },
+  "link.title.Social Medias": {
+    "message": "Social Medias",
+    "description": "The title of the footer links column with title=Social Medias in the footer"
+  },
+  "link.title.Contact": {
+    "message": "Contact",
+    "description": "The title of the footer links column with title=Contact in the footer"
+  },
+  "link.item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/mynickisnick_"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/nick-gabe"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://linkedin.com/in/nicolas-gabriel"
+  },
+  "link.item.label.NicolasGabrielCtt@gmail.com": {
+    "message": "NicolasGabrielCtt@gmail.com",
+    "description": "The label of footer link with label=NicolasGabrielCtt@gmail.com linking to mailto:NicolasGabrielCtt@gmail.com"
+  },
+  "link.item.label.LinkedIn Message": {
+    "message": "LinkedIn Message",
+    "description": "The label of footer link with label=LinkedIn Message linking to https://linkedin.com/in/nicolas-gabriel"
+  },
+  "copyright": {
+    "message": "Copyright © 2022 Nícolas Gabriel. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
