@@ -3,6 +3,7 @@
   "extends": "@tsconfig/docusaurus/tsconfig.json",
   "compilerOptions": {
     "baseUrl": ".",
-    "downlevelIteration": true
+    "downlevelIteration": true,
+    "jsx": "react-jsx"
   }
 }

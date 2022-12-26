@@ -14,10 +14,7 @@ const Heading = () => {
       <div className="container">
         <h1 className={styles.heading}>{siteConfig.title}</h1>
         <p className="hero__subtitle">
-          {translate({
-            message: siteConfig.tagline,
-            description: 'A short slogan'
-          })}
+          <Translate id="heading.tagline" description="A short slogan">Let's learn together</Translate>
         </p>
       </div>
     </header>
@@ -25,8 +22,6 @@ const Heading = () => {
 };
 
 export default function Home(): JSX.Element {
-  const { siteConfig, ...info } = useDocusaurusContext();
-
   const [followersList, setFollowersList] = useState([]);
 
   useEffect(() => {

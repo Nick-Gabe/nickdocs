@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/nickdocs.svg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -68,14 +68,14 @@ const config = {
         title: 'Nickdocs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/nickdocs.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'introduction/intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {
             to: '/blog',
@@ -90,7 +90,7 @@ const config = {
           {
             href: 'https://github.com/nick-gabe/nickdocs',
             label: 'GitHub',
-            position: 'right',
+            position: 'left',
           },
         ],
       },
@@ -101,8 +101,8 @@ const config = {
             title: 'Content',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Docs',
+                to: 'docs/introduction/intro',
               },
               {
                 label: 'Blog',
