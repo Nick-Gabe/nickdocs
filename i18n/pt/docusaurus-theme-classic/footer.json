@@ -1,14 +1,14 @@
 {
   "link.title.Content": {
-    "message": "Content",
+    "message": "Conteúdo",
     "description": "The title of the footer links column with title=Content in the footer"
   },
   "link.title.Social Medias": {
-    "message": "Social Medias",
+    "message": "Mídias Sociais",
     "description": "The title of the footer links column with title=Social Medias in the footer"
   },
   "link.title.Contact": {
-    "message": "Contact",
+    "message": "Contato",
     "description": "The title of the footer links column with title=Contact in the footer"
   },
   "link.item.label.Blog": {

@@ -1,18 +1,18 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Próximo",
     "description": "The label for version current"
   },
   "sidebar.mySideBar.category.Introduction": {
-    "message": "Introduction",
+    "message": "Introdução",
     "description": "The label for category Introduction in sidebar mySideBar"
   },
   "sidebar.mySideBar.category.Introduction.link.generated-index.description": {
-    "message": "An introduction to me and the content of this doc.",
+    "message": "Uma introdução sobre mim e o conteúdo dessa documentação.",
     "description": "The generated-index page description for category Introduction in sidebar mySideBar"
   },
   "sidebar.mySideBar.category.Programming Logic": {
-    "message": "Programming Logic",
+    "message": "Lógica de Programação",
     "description": "The label for category Programming Logic in sidebar mySideBar"
   }
 }
