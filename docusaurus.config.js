@@ -90,8 +90,9 @@ const config = {
           },
           {
             href: 'https://github.com/nick-gabe/nickdocs',
-            label: 'GitHub',
-            position: 'left'
+            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
