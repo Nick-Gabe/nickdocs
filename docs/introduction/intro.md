@@ -7,6 +7,8 @@ title: About me
 I am **Nícolas Gabriel**, most known by **Nick Gabe**, the creator of this Doc.
 Currently a 18 year old brazilian Full Stack Programmer working remotely for a swiss company.
 
+![myself](../assets/nick-gabe.png)
+
 ## Overview
 
 I started learning about Programming in 2020 during the pandemic and while I was on college. It was only a hobby, since I started only to develop a Discord Bot to joke with my friends. But I started to really like it and spend hours and hours studying. *I was more dedicated with that than college to be honest*.
@@ -30,3 +32,11 @@ Then, after some months, I went to try a framework, and decided to go for React.
 At first glance I thought it was not useful at all, since it was only more code to do the same thing Javascript does. But after some time I learnt their pros and cons, and yeah, for me it is a pretty code language, I prefer it most of the time due to making big projects more scalable and safer to work with.
 
 Then I learned Next, Strapi, a lot of libraries and here I am learning and trying this awesome SSG called Docusaurus 😁.
+
+## Social Media
+
+Follow me on my social media, also send a message :)
+- **[Twitter](https://twitter.com/mynickisnick_)**
+- **[GitHub](https://github.com/nick-gabe)**
+- **[LinkedIn](https://linkedin.com/in/nicolas-gabriel)**
+- **Discord:** Snickers#5005
