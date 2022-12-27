@@ -1,9 +1,15 @@
 .bgContainer {
   display: flex;
-  width: 110vw;
+  width: 120vw;
   position: fixed;
   flex-wrap: wrap;
   z-index: -1;
+}
+
+@media screen and (max-width: 483px) {
+  .bgContainer {
+    width: 130vw;
+  }
 }
 
 .bgContainer::after {
@@ -28,5 +34,5 @@
 }
 
 .followerAnimation {
-  animation: appear cubic-bezier(.76,1.86,.77,.71) 1s 0s backwards;
+  animation: appear cubic-bezier(.76, 1.86, .77, .71) 1s 0s backwards;
 }

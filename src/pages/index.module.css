@@ -18,8 +18,19 @@
 }
 
 .heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-family: Unbounded, monospace;
   font-size: 5em;
+  word-wrap: normal;
+}
+
+@media screen and (max-width: 520px) {
+  .heading {
+    font-size: 3em;
+    flex-direction: column;
+  }
 }
 
 main {

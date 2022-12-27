@@ -18,7 +18,6 @@
   "plugins": ["react", "@typescript-eslint", "@docusaurus"],
   "rules": {
     "indent": ["error", 2],
-    "linebreak-style": ["error", "windows"],
     "quotes": ["error", "single"],
     "semi": ["error", "always"],
     "@docusaurus/string-literal-i18n-messages": "error",
