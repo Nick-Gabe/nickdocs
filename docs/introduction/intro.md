@@ -5,13 +5,13 @@ title: About me
 
 # Nick who?
 I am **Nícolas Gabriel**, most known by **Nick Gabe**, the creator of this Doc.
-Currently a 18 year old brazilian Full Stack Programmer working remotely for a swiss company.
+Currently a 18 year old brazilian Full Stack Programmer.
 
 ![myself](../assets/nick-gabe.png)
 
 ## Overview
 
-I started learning about Programming in 2020 during the pandemic and while I was on college. It was only a hobby, since I started only to develop a Discord Bot to joke with my friends. But I started to really like it and spend hours and hours studying. *I was more dedicated with that than college to be honest*.
+I started learning about Programming in 2020 during the pandemic and while I was on high school. It was only a hobby, since I started only to develop a Discord Bot to joke with my friends. But I started to really like it and spend hours and hours studying. *I was more dedicated with that than high school to be honest*.
 
 After some months doing a lot of projects I decided that this was my area and I would pursuit it. And after 2 years studying a lot, a week after my birthday, I got a message about a meeting for an foreign company! I was *really* happy when I got approved, my first job!
 

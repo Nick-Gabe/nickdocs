@@ -11,6 +11,6 @@ So here I can create content without needing to worry about not finding it again
 
 And also it is way more customizable and organized than [dev.to](https://dev.to/nickgabe). So that's a plus.
 
-Here on [**Docs**](/docs/category/introduction) you will see about technical and direct stuff. I will teach things, but try to be really "to the point", without agrouping a lot of content in a single text.
+Here on [**Docs**](/docs/category/introduction) you will see about technical and direct stuff. I will teach things, but trying to be really "to the point", without agrouping a lot of content in a single text.
 
 So for example if I will teach about Strings, I will not talk about anything else than it, the smaller piece of abstraction the better.
