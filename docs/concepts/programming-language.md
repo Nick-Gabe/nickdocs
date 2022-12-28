@@ -14,10 +14,10 @@ Machine code is what people usually think when they hear about code, which is a 
 
 I don't have to tell you that is pretty much impossible for a human to read "01111001 01100001 01111001" and understand fast that it means "yay". So high level languages were born because of that.
 
-Their difference to low level languages are that they are more readable to humans and easily understood because it uses words to represent data. For example you don't need to be a programmer to understand what this **[JavaScript](/docs/category/javascript)** code does:
+Their difference to low level languages are that they are more readable to humans and easily understood because it uses words to represent data. For example you don't need to be a programmer to understand what this **[JavaScript](/#)** code does:
 ```js
 if(user.wonGame === true) alert("You won the game!");
 ```
 
 The lowest the level, more near machine code and faster it is, however it is harder to understand and mantain aswell.
-The higher the level, it is more friendly to the one who is writing the code, but it will need a [Compiler](/docs/category/javascript) to be **translated** into machine readable code.
+The higher the level, it is more friendly to the one who is writing the code, but it will need a [Compiler](/docs/concepts/compiler) to be **translated** into machine readable code.

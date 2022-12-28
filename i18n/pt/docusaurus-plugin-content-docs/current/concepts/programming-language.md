@@ -14,10 +14,10 @@ Código de máquina é o que as pessoas geralmente pensam quando ouvem falar de 
 
 Não preciso dizer que é praticamente impossível para um humano ler "01111001 01100001 01111001" e entender rapidamente que significa "yay". As linguagens de alto nível nasceram por causa disso.
 
-Sua diferença em relação às linguagens de baixo nível é que elas são mais legíveis para humanos e facilmente compreendidas porque usam palavras para representar dados. Por exemplo, você não precisa ser um programador para entender o que este código **[JavaScript](/docs/category/javascript)** faz:
+Sua diferença em relação às linguagens de baixo nível é que elas são mais legíveis para humanos e facilmente compreendidas porque usam palavras para representar dados. Por exemplo, você não precisa ser um programador para entender o que este código **[JavaScript](/#)** faz:
 ```js
 if(user.wonGame === true) alert("Você ganhou o jogo!");
 ```
 
 Quanto mais baixo o nível, mais próximo do código de máquina e mais rápido ele é, porém é mais difícil de entender e manter também.
-Quanto maior o nível, mais amigável para quem está escrevendo o código, mas precisará de um [Compilador](/docs/category/javascript) para ser **traduzido** em um código legível por uma máquina.
+Quanto maior o nível, mais amigável para quem está escrevendo o código, mas precisará de um [Compilador](/docs/concepts/compiler) para ser **traduzido** em um código legível por uma máquina.

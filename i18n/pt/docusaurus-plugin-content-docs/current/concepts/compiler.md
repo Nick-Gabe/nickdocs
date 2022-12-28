@@ -13,4 +13,4 @@ JavaScript não é considerado uma linguagem de programação, mas sim uma lingu
 
 Isso adiciona o benefício de poder escrever em várias linguagens, mas conseguir com que todos eles para sejam executados pela máquina, desde que sejam traduzidos, ou mais especificamente *"compilados"*.
 
-Também existem compiladores que não convertem código em código de máquina, mas sim convertem código de uma linguagem para outra. Eles são chamados de ["Transpiladores"](/docs/concepts/transpiler).
+Também existem compiladores que não convertem código em código de máquina, mas sim convertem código de uma linguagem para outra. Eles são chamados de ["Transpiladores"](/#).

@@ -14,5 +14,13 @@
   "sidebar.mySideBar.category.Programming Logic": {
     "message": "Lógica de Programação",
     "description": "The label for category Programming Logic in sidebar mySideBar"
+  },
+  "sidebar.mySideBar.category.Concepts": {
+    "message": "Conceitos",
+    "description": "The label for category Concepts in sidebar mySideBar"
+  },
+  "sidebar.mySideBar.category.Concepts.link.generated-index.description": {
+    "message": "Programação não é apenas sobre código, você deve aprender alguns conceitos.",
+    "description": "The generated-index page description for category Concepts in sidebar mySideBar"
   }
 }

@@ -13,4 +13,4 @@ JavaScript is not considered a programming language, instead it is a scripting l
 
 This adds the benefit of being able to write in multiple languages, but having them all to be ran by the machine, since they get translated, or more specifically *"compiled"*.
 
-There are also compilers that don't convert code to machine code, instead they convert code from one language to another. They are called ["Transpilers"](/docs/concepts/transpiler).
+There are also compilers that don't convert code to machine code, instead they convert code from one language to another. They are called ["Transpilers"](/#).
