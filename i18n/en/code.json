@@ -265,5 +265,11 @@
   "heading.tagline": {
     "message": "Let's learn together",
     "description": "A short slogan"
+  },
+  "Nick": {
+    "message": "Nick"
+  },
+  "docs": {
+    "message": "docs"
   }
 }
