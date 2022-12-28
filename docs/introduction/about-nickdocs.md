@@ -13,4 +13,4 @@ And also it is way more customizable and organized than [dev.to](https://dev.to/
 
 Here on [**Docs**](/docs/category/introduction) you will see about technical and direct stuff. I will teach things, but trying to be really "to the point", without agrouping a lot of content in a single text.
 
-So for example if I will teach about Strings, I will not talk about anything else than it, the smaller piece of abstraction the better.
+So for example if I will teach about Strings, I will try not going too much further from the topic, the smaller piece of abstraction the better.
